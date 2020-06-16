@@ -1,0 +1,3 @@
+C:\Users\Owner\source\repos\Lab3-MEAN-Stack\obj\Debug\Lab3-MEAN-Stack.njsprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Lab3-MEAN-Stack\obj\Debug\Lab3-MEAN-Stack.njsproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Lab3-MEAN-Stack\bin\Microsoft.NodejsTools.WebRole.dll
